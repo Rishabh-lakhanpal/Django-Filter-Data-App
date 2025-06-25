@@ -4,12 +4,6 @@ A simple Django project that demonstrates how to filter data (books) using form 
 
 ---
 
-## 📸 Screenshot
-
-![Filter Form and Table](./Screenshot.png)  <!-- rename your screenshot if needed -->
-
----
-
 ## 🚀 Features
 
 - Filter books by:
